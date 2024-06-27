@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 440397 filtered ascend = 2145 plain-ascend = 547 cost=534867 energy=2.9kwh time=17h 23m 45s -->
+<!-- track-length = 440403 filtered ascend = 2344 plain-ascend = 601 cost=531304 energy=2.9kwh time=17h 22m 45s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -64,75 +64,210 @@
  <wpt lat="39.40768582255678" lon="-2.9438289999961857"><name>Grillrestaurant</name></wpt>
  <wpt lat="39.53023567415322" lon="-3.0763542652130127"><name>Repsol</name></wpt>
  <wpt lat="39.53005019696384" lon="-3.076153099536896"><name>Ahorramas</name></wpt>
- <wpt lat="37.59794" lon="-0.982116"><name>from</name><type>from</type></wpt>
- <wpt lat="37.702287" lon="-1.037951"><name>via1</name><type>via</type></wpt>
- <wpt lat="37.737583" lon="-1.02429"><name>via2</name><type>via</type></wpt>
- <wpt lat="37.817556" lon="-1.076906"><name>via3</name><type>via</type></wpt>
- <wpt lat="37.854915" lon="-1.067811"><name>via4</name><type>via</type></wpt>
- <wpt lat="37.87492" lon="-1.037154"><name>via5</name><type>via</type></wpt>
- <wpt lat="37.906147" lon="-1.052506"><name>via6</name><type>via</type></wpt>
- <wpt lat="37.941125" lon="-1.05087"><name>via7</name><type>via</type></wpt>
- <wpt lat="37.966288" lon="-1.094797"><name>via8</name><type>via</type></wpt>
- <wpt lat="37.990083" lon="-1.110691"><name>via9</name><type>via</type></wpt>
- <wpt lat="37.999315" lon="-1.142853"><name>via10</name><type>via</type></wpt>
- <wpt lat="38.026424" lon="-1.165764"><name>via11</name><type>via</type></wpt>
- <wpt lat="38.045858" lon="-1.206732"><name>via12</name><type>via</type></wpt>
- <wpt lat="38.084815" lon="-1.233671"><name>via13</name><type>via</type></wpt>
- <wpt lat="38.132951" lon="-1.334951"><name>via14</name><type>via</type></wpt>
- <wpt lat="38.165281" lon="-1.355879"><name>via15</name><type>via</type></wpt>
- <wpt lat="38.177933" lon="-1.379324"><name>via16</name><type>via</type></wpt>
- <wpt lat="38.202423" lon="-1.386702"><name>via17</name><type>via</type></wpt>
- <wpt lat="38.222001" lon="-1.414435"><name>via18</name><type>via</type></wpt>
- <wpt lat="38.255238" lon="-1.427561"><name>via19</name><type>via</type></wpt>
- <wpt lat="38.273914" lon="-1.453183"><name>via20</name><type>via</type></wpt>
- <wpt lat="38.350522" lon="-1.50705"><name>via21</name><type>via</type></wpt>
- <wpt lat="38.380795" lon="-1.555732"><name>via22</name><type>via</type></wpt>
- <wpt lat="38.475787" lon="-1.60013"><name>via23</name><type>via</type></wpt>
- <wpt lat="38.51148" lon="-1.697096"><name>via24</name><type>via</type></wpt>
- <wpt lat="38.566501" lon="-1.717537"><name>via25</name><type>via</type></wpt>
- <wpt lat="38.642656" lon="-1.846498"><name>via26</name><type>via</type></wpt>
- <wpt lat="38.723671" lon="-1.912603"><name>via27</name><type>via</type></wpt>
- <wpt lat="38.760261" lon="-1.96537"><name>via28</name><type>via</type></wpt>
- <wpt lat="38.778604" lon="-1.975063"><name>via29</name><type>via</type></wpt>
- <wpt lat="38.794713" lon="-1.961625"><name>via30</name><type>via</type></wpt>
- <wpt lat="38.821794" lon="-1.969314"><name>via31</name><type>via</type></wpt>
- <wpt lat="38.860299" lon="-1.959229"><name>via32</name><type>via</type></wpt>
- <wpt lat="38.894817" lon="-1.981945"><name>via33</name><type>via</type></wpt>
- <wpt lat="38.95584" lon="-2.092968"><name>via34</name><type>via</type></wpt>
- <wpt lat="38.96345" lon="-2.150409"><name>via35</name><type>via</type></wpt>
- <wpt lat="39.05042" lon="-2.196951"><name>via36</name><type>via</type></wpt>
- <wpt lat="39.145287" lon="-2.295309"><name>via37</name><type>via</type></wpt>
- <wpt lat="39.167439" lon="-2.374917"><name>via38</name><type>via</type></wpt>
- <wpt lat="39.159454" lon="-2.423034"><name>via39</name><type>via</type></wpt>
- <wpt lat="39.186273" lon="-2.457104"><name>via40</name><type>via</type></wpt>
- <wpt lat="39.195293" lon="-2.508089"><name>via41</name><type>via</type></wpt>
- <wpt lat="39.218366" lon="-2.524217"><name>via42</name><type>via</type></wpt>
- <wpt lat="39.258478" lon="-2.582973"><name>via43</name><type>via</type></wpt>
- <wpt lat="39.30316" lon="-2.666106"><name>via44</name><type>via</type></wpt>
- <wpt lat="39.316893" lon="-2.721509"><name>via45</name><type>via</type></wpt>
- <wpt lat="39.38698" lon="-2.762203"><name>via46</name><type>via</type></wpt>
- <wpt lat="39.402373" lon="-2.790957"><name>via47</name><type>via</type></wpt>
- <wpt lat="39.411041" lon="-2.84203"><name>via48</name><type>via</type></wpt>
- <wpt lat="39.394613" lon="-2.891818"><name>via49</name><type>via</type></wpt>
- <wpt lat="39.407491" lon="-2.947703"><name>via50</name><type>via</type></wpt>
- <wpt lat="39.5165" lon="-2.995687"><name>via51</name><type>via</type></wpt>
- <wpt lat="39.529161" lon="-3.077299"><name>via52</name><type>via</type></wpt>
- <wpt lat="39.593206" lon="-3.109414"><name>via53</name><type>via</type></wpt>
- <wpt lat="39.615107" lon="-3.22356"><name>via54</name><type>via</type></wpt>
- <wpt lat="39.725182" lon="-3.307542"><name>via55</name><type>via</type></wpt>
- <wpt lat="39.802513" lon="-3.545587"><name>via56</name><type>via</type></wpt>
- <wpt lat="39.848217" lon="-3.607398"><name>via57</name><type>via</type></wpt>
- <wpt lat="39.880008" lon="-3.622839"><name>via58</name><type>via</type></wpt>
- <wpt lat="39.94675" lon="-3.621013"><name>via59</name><type>via</type></wpt>
- <wpt lat="40.009002" lon="-3.599291"><name>via60</name><type>via</type></wpt>
- <wpt lat="40.053265" lon="-3.61408"><name>via61</name><type>via</type></wpt>
- <wpt lat="40.085381" lon="-3.604957"><name>via62</name><type>via</type></wpt>
- <wpt lat="40.096187" lon="-3.630657"><name>via63</name><type>via</type></wpt>
+ <wpt lat="37.62305189212376" lon="-0.949928648594145"><name>Decathlon</name></wpt>
+ <wpt lat="38.03216331470561" lon="-1.1477300697821493"><name>Decathlon</name></wpt>
+ <wpt lat="37.597939" lon="-0.982117"><name>from</name><type>from</type></wpt>
+ <wpt lat="37.597791" lon="-0.986527"><name>via1</name><type>via</type></wpt>
+ <wpt lat="37.604885" lon="-0.992789"><name>via2</name><type>via</type></wpt>
+ <wpt lat="37.606365" lon="-0.990703"><name>via3</name><type>via</type></wpt>
+ <wpt lat="37.629274" lon="-1.002643"><name>via4</name><type>via</type></wpt>
+ <wpt lat="37.653464" lon="-1.007768"><name>via5</name><type>via</type></wpt>
+ <wpt lat="37.702287" lon="-1.037951"><name>via6</name><type>via</type></wpt>
+ <wpt lat="37.71345" lon="-1.034689"><name>via7</name><type>via</type></wpt>
+ <wpt lat="37.720515" lon="-1.036558"><name>via8</name><type>via</type></wpt>
+ <wpt lat="37.737583" lon="-1.02429"><name>via9</name><type>via</type></wpt>
+ <wpt lat="37.777658" lon="-1.042461"><name>via10</name><type>via</type></wpt>
+ <wpt lat="37.811893" lon="-1.069519"><name>via11</name><type>via</type></wpt>
+ <wpt lat="37.817556" lon="-1.076906"><name>via12</name><type>via</type></wpt>
+ <wpt lat="37.836717" lon="-1.069107"><name>via13</name><type>via</type></wpt>
+ <wpt lat="37.845859" lon="-1.071467"><name>via14</name><type>via</type></wpt>
+ <wpt lat="37.854915" lon="-1.067811"><name>via15</name><type>via</type></wpt>
+ <wpt lat="37.870111" lon="-1.051168"><name>via16</name><type>via</type></wpt>
+ <wpt lat="37.87492" lon="-1.037154"><name>via17</name><type>via</type></wpt>
+ <wpt lat="37.906147" lon="-1.052506"><name>via18</name><type>via</type></wpt>
+ <wpt lat="37.909894" lon="-1.047188"><name>via19</name><type>via</type></wpt>
+ <wpt lat="37.913521" lon="-1.050999"><name>via20</name><type>via</type></wpt>
+ <wpt lat="37.925856" lon="-1.053201"><name>via21</name><type>via</type></wpt>
+ <wpt lat="37.931605" lon="-1.051157"><name>via22</name><type>via</type></wpt>
+ <wpt lat="37.938649" lon="-1.054473"><name>via23</name><type>via</type></wpt>
+ <wpt lat="37.941125" lon="-1.05087"><name>via24</name><type>via</type></wpt>
+ <wpt lat="37.944749" lon="-1.056546"><name>via25</name><type>via</type></wpt>
+ <wpt lat="37.944224" lon="-1.062164"><name>via26</name><type>via</type></wpt>
+ <wpt lat="37.946611" lon="-1.061158"><name>via27</name><type>via</type></wpt>
+ <wpt lat="37.959368" lon="-1.071027"><name>via28</name><type>via</type></wpt>
+ <wpt lat="37.966288" lon="-1.094797"><name>via29</name><type>via</type></wpt>
+ <wpt lat="37.979796" lon="-1.106688"><name>via30</name><type>via</type></wpt>
+ <wpt lat="37.990083" lon="-1.110691"><name>via31</name><type>via</type></wpt>
+ <wpt lat="37.992308" lon="-1.129531"><name>via32</name><type>via</type></wpt>
+ <wpt lat="37.999315" lon="-1.142853"><name>via33</name><type>via</type></wpt>
+ <wpt lat="38.026424" lon="-1.165764"><name>via34</name><type>via</type></wpt>
+ <wpt lat="38.034705" lon="-1.180838"><name>via35</name><type>via</type></wpt>
+ <wpt lat="38.039628" lon="-1.197972"><name>via36</name><type>via</type></wpt>
+ <wpt lat="38.045858" lon="-1.206732"><name>via37</name><type>via</type></wpt>
+ <wpt lat="38.084815" lon="-1.233671"><name>via38</name><type>via</type></wpt>
+ <wpt lat="38.086642" lon="-1.249892"><name>via39</name><type>via</type></wpt>
+ <wpt lat="38.097869" lon="-1.258055"><name>via40</name><type>via</type></wpt>
+ <wpt lat="38.105279" lon="-1.269117"><name>via41</name><type>via</type></wpt>
+ <wpt lat="38.107164" lon="-1.281541"><name>via42</name><type>via</type></wpt>
+ <wpt lat="38.115835" lon="-1.289237"><name>via43</name><type>via</type></wpt>
+ <wpt lat="38.11491" lon="-1.297425"><name>via44</name><type>via</type></wpt>
+ <wpt lat="38.122114" lon="-1.31166"><name>via45</name><type>via</type></wpt>
+ <wpt lat="38.128726" lon="-1.314158"><name>via46</name><type>via</type></wpt>
+ <wpt lat="38.132886" lon="-1.323588"><name>via47</name><type>via</type></wpt>
+ <wpt lat="38.130588" lon="-1.330393"><name>via48</name><type>via</type></wpt>
+ <wpt lat="38.132951" lon="-1.334951"><name>via49</name><type>via</type></wpt>
+ <wpt lat="38.142457" lon="-1.343029"><name>via50</name><type>via</type></wpt>
+ <wpt lat="38.152095" lon="-1.34448"><name>via51</name><type>via</type></wpt>
+ <wpt lat="38.15597" lon="-1.351019"><name>via52</name><type>via</type></wpt>
+ <wpt lat="38.165281" lon="-1.355879"><name>via53</name><type>via</type></wpt>
+ <wpt lat="38.177933" lon="-1.379324"><name>via54</name><type>via</type></wpt>
+ <wpt lat="38.180341" lon="-1.376322"><name>via55</name><type>via</type></wpt>
+ <wpt lat="38.186102" lon="-1.382036"><name>via56</name><type>via</type></wpt>
+ <wpt lat="38.19636" lon="-1.38191"><name>via57</name><type>via</type></wpt>
+ <wpt lat="38.202423" lon="-1.386702"><name>via58</name><type>via</type></wpt>
+ <wpt lat="38.222001" lon="-1.414435"><name>via59</name><type>via</type></wpt>
+ <wpt lat="38.229923" lon="-1.410365"><name>via60</name><type>via</type></wpt>
+ <wpt lat="38.246589" lon="-1.425672"><name>via61</name><type>via</type></wpt>
+ <wpt lat="38.255238" lon="-1.427561"><name>via62</name><type>via</type></wpt>
+ <wpt lat="38.273914" lon="-1.453183"><name>via63</name><type>via</type></wpt>
+ <wpt lat="38.301547" lon="-1.466589"><name>via64</name><type>via</type></wpt>
+ <wpt lat="38.329" lon="-1.492077"><name>via65</name><type>via</type></wpt>
+ <wpt lat="38.332712" lon="-1.498623"><name>via66</name><type>via</type></wpt>
+ <wpt lat="38.350522" lon="-1.50705"><name>via67</name><type>via</type></wpt>
+ <wpt lat="38.36114" lon="-1.517258"><name>via68</name><type>via</type></wpt>
+ <wpt lat="38.373785" lon="-1.53692"><name>via69</name><type>via</type></wpt>
+ <wpt lat="38.380795" lon="-1.555732"><name>via70</name><type>via</type></wpt>
+ <wpt lat="38.406957" lon="-1.561932"><name>via71</name><type>via</type></wpt>
+ <wpt lat="38.432985" lon="-1.57755"><name>via72</name><type>via</type></wpt>
+ <wpt lat="38.440798" lon="-1.57645"><name>via73</name><type>via</type></wpt>
+ <wpt lat="38.457625" lon="-1.590985"><name>via74</name><type>via</type></wpt>
+ <wpt lat="38.475787" lon="-1.60013"><name>via75</name><type>via</type></wpt>
+ <wpt lat="38.479689" lon="-1.610625"><name>via76</name><type>via</type></wpt>
+ <wpt lat="38.492642" lon="-1.628572"><name>via77</name><type>via</type></wpt>
+ <wpt lat="38.492529" lon="-1.638893"><name>via78</name><type>via</type></wpt>
+ <wpt lat="38.499725" lon="-1.67007"><name>via79</name><type>via</type></wpt>
+ <wpt lat="38.51148" lon="-1.697096"><name>via80</name><type>via</type></wpt>
+ <wpt lat="38.515376" lon="-1.697312"><name>via81</name><type>via</type></wpt>
+ <wpt lat="38.525363" lon="-1.706944"><name>via82</name><type>via</type></wpt>
+ <wpt lat="38.55405" lon="-1.711628"><name>via83</name><type>via</type></wpt>
+ <wpt lat="38.566501" lon="-1.717537"><name>via84</name><type>via</type></wpt>
+ <wpt lat="38.568865" lon="-1.724515"><name>via85</name><type>via</type></wpt>
+ <wpt lat="38.575731" lon="-1.728095"><name>via86</name><type>via</type></wpt>
+ <wpt lat="38.587547" lon="-1.747437"><name>via87</name><type>via</type></wpt>
+ <wpt lat="38.612235" lon="-1.802406"><name>via88</name><type>via</type></wpt>
+ <wpt lat="38.642656" lon="-1.846498"><name>via89</name><type>via</type></wpt>
+ <wpt lat="38.717508" lon="-1.910686"><name>via90</name><type>via</type></wpt>
+ <wpt lat="38.723671" lon="-1.912603"><name>via91</name><type>via</type></wpt>
+ <wpt lat="38.760261" lon="-1.96537"><name>via92</name><type>via</type></wpt>
+ <wpt lat="38.769705" lon="-1.964854"><name>via93</name><type>via</type></wpt>
+ <wpt lat="38.77087" lon="-1.969212"><name>via94</name><type>via</type></wpt>
+ <wpt lat="38.778604" lon="-1.975063"><name>via95</name><type>via</type></wpt>
+ <wpt lat="38.794713" lon="-1.961625"><name>via96</name><type>via</type></wpt>
+ <wpt lat="38.801811" lon="-1.965576"><name>via97</name><type>via</type></wpt>
+ <wpt lat="38.821794" lon="-1.969314"><name>via98</name><type>via</type></wpt>
+ <wpt lat="38.83047" lon="-1.967707"><name>via99</name><type>via</type></wpt>
+ <wpt lat="38.847173" lon="-1.958608"><name>via100</name><type>via</type></wpt>
+ <wpt lat="38.854406" lon="-1.96102"><name>via101</name><type>via</type></wpt>
+ <wpt lat="38.860299" lon="-1.959229"><name>via102</name><type>via</type></wpt>
+ <wpt lat="38.872927" lon="-1.963365"><name>via103</name><type>via</type></wpt>
+ <wpt lat="38.877632" lon="-1.962331"><name>via104</name><type>via</type></wpt>
+ <wpt lat="38.885085" lon="-1.977156"><name>via105</name><type>via</type></wpt>
+ <wpt lat="38.894817" lon="-1.981945"><name>via106</name><type>via</type></wpt>
+ <wpt lat="38.904373" lon="-1.99997"><name>via107</name><type>via</type></wpt>
+ <wpt lat="38.914763" lon="-2.007789"><name>via108</name><type>via</type></wpt>
+ <wpt lat="38.925187" lon="-2.035104"><name>via109</name><type>via</type></wpt>
+ <wpt lat="38.95584" lon="-2.092968"><name>via110</name><type>via</type></wpt>
+ <wpt lat="38.956669" lon="-2.112603"><name>via111</name><type>via</type></wpt>
+ <wpt lat="38.963385" lon="-2.12755"><name>via112</name><type>via</type></wpt>
+ <wpt lat="38.96345" lon="-2.150409"><name>via113</name><type>via</type></wpt>
+ <wpt lat="39.008151" lon="-2.167992"><name>via114</name><type>via</type></wpt>
+ <wpt lat="39.05042" lon="-2.196951"><name>via115</name><type>via</type></wpt>
+ <wpt lat="39.052866" lon="-2.203464"><name>via116</name><type>via</type></wpt>
+ <wpt lat="39.145287" lon="-2.295309"><name>via117</name><type>via</type></wpt>
+ <wpt lat="39.15483" lon="-2.31217"><name>via118</name><type>via</type></wpt>
+ <wpt lat="39.167439" lon="-2.374917"><name>via119</name><type>via</type></wpt>
+ <wpt lat="39.159454" lon="-2.423034"><name>via120</name><type>via</type></wpt>
+ <wpt lat="39.161182" lon="-2.428826"><name>via121</name><type>via</type></wpt>
+ <wpt lat="39.186273" lon="-2.457104"><name>via122</name><type>via</type></wpt>
+ <wpt lat="39.19276" lon="-2.479403"><name>via123</name><type>via</type></wpt>
+ <wpt lat="39.191145" lon="-2.498656"><name>via124</name><type>via</type></wpt>
+ <wpt lat="39.195293" lon="-2.508089"><name>via125</name><type>via</type></wpt>
+ <wpt lat="39.218366" lon="-2.524217"><name>via126</name><type>via</type></wpt>
+ <wpt lat="39.24027" lon="-2.559815"><name>via127</name><type>via</type></wpt>
+ <wpt lat="39.258478" lon="-2.582973"><name>via128</name><type>via</type></wpt>
+ <wpt lat="39.264943" lon="-2.602731"><name>via129</name><type>via</type></wpt>
+ <wpt lat="39.270464" lon="-2.604636"><name>via130</name><type>via</type></wpt>
+ <wpt lat="39.269706" lon="-2.611697"><name>via131</name><type>via</type></wpt>
+ <wpt lat="39.275992" lon="-2.628682"><name>via132</name><type>via</type></wpt>
+ <wpt lat="39.30316" lon="-2.666106"><name>via133</name><type>via</type></wpt>
+ <wpt lat="39.309932" lon="-2.704501"><name>via134</name><type>via</type></wpt>
+ <wpt lat="39.316893" lon="-2.721509"><name>via135</name><type>via</type></wpt>
+ <wpt lat="39.320104" lon="-2.725624"><name>via136</name><type>via</type></wpt>
+ <wpt lat="39.340904" lon="-2.73086"><name>via137</name><type>via</type></wpt>
+ <wpt lat="39.35258" lon="-2.737425"><name>via138</name><type>via</type></wpt>
+ <wpt lat="39.373456" lon="-2.757088"><name>via139</name><type>via</type></wpt>
+ <wpt lat="39.38698" lon="-2.762203"><name>via140</name><type>via</type></wpt>
+ <wpt lat="39.391713" lon="-2.766953"><name>via141</name><type>via</type></wpt>
+ <wpt lat="39.402373" lon="-2.790957"><name>via142</name><type>via</type></wpt>
+ <wpt lat="39.411041" lon="-2.84203"><name>via143</name><type>via</type></wpt>
+ <wpt lat="39.394613" lon="-2.891818"><name>via144</name><type>via</type></wpt>
+ <wpt lat="39.407491" lon="-2.947703"><name>via145</name><type>via</type></wpt>
+ <wpt lat="39.5165" lon="-2.995687"><name>via146</name><type>via</type></wpt>
+ <wpt lat="39.529161" lon="-3.077299"><name>via147</name><type>via</type></wpt>
+ <wpt lat="39.535006" lon="-3.084029"><name>via148</name><type>via</type></wpt>
+ <wpt lat="39.541192" lon="-3.08381"><name>via149</name><type>via</type></wpt>
+ <wpt lat="39.55426" lon="-3.092963"><name>via150</name><type>via</type></wpt>
+ <wpt lat="39.593206" lon="-3.109414"><name>via151</name><type>via</type></wpt>
+ <wpt lat="39.591865" lon="-3.124132"><name>via152</name><type>via</type></wpt>
+ <wpt lat="39.599846" lon="-3.132868"><name>via153</name><type>via</type></wpt>
+ <wpt lat="39.602501" lon="-3.143185"><name>via154</name><type>via</type></wpt>
+ <wpt lat="39.615107" lon="-3.22356"><name>via155</name><type>via</type></wpt>
+ <wpt lat="39.619369" lon="-3.221409"><name>via156</name><type>via</type></wpt>
+ <wpt lat="39.718425" lon="-3.301847"><name>via157</name><type>via</type></wpt>
+ <wpt lat="39.722275" lon="-3.307647"><name>via158</name><type>via</type></wpt>
+ <wpt lat="39.725182" lon="-3.307542"><name>via159</name><type>via</type></wpt>
+ <wpt lat="39.766392" lon="-3.417548"><name>via160</name><type>via</type></wpt>
+ <wpt lat="39.783497" lon="-3.477451"><name>via161</name><type>via</type></wpt>
+ <wpt lat="39.78695" lon="-3.478343"><name>via162</name><type>via</type></wpt>
+ <wpt lat="39.802513" lon="-3.545587"><name>via163</name><type>via</type></wpt>
+ <wpt lat="39.811674" lon="-3.563512"><name>via164</name><type>via</type></wpt>
+ <wpt lat="39.821352" lon="-3.569334"><name>via165</name><type>via</type></wpt>
+ <wpt lat="39.848217" lon="-3.607398"><name>via166</name><type>via</type></wpt>
+ <wpt lat="39.85602" lon="-3.614132"><name>via167</name><type>via</type></wpt>
+ <wpt lat="39.862013" lon="-3.614171"><name>via168</name><type>via</type></wpt>
+ <wpt lat="39.866929" lon="-3.610444"><name>via169</name><type>via</type></wpt>
+ <wpt lat="39.880008" lon="-3.622839"><name>via170</name><type>via</type></wpt>
+ <wpt lat="39.902153" lon="-3.617326"><name>via171</name><type>via</type></wpt>
+ <wpt lat="39.915602" lon="-3.619025"><name>via172</name><type>via</type></wpt>
+ <wpt lat="39.935369" lon="-3.616897"><name>via173</name><type>via</type></wpt>
+ <wpt lat="39.94675" lon="-3.621013"><name>via174</name><type>via</type></wpt>
+ <wpt lat="39.970025" lon="-3.609729"><name>via175</name><type>via</type></wpt>
+ <wpt lat="39.988266" lon="-3.604156"><name>via176</name><type>via</type></wpt>
+ <wpt lat="39.993539" lon="-3.607255"><name>via177</name><type>via</type></wpt>
+ <wpt lat="39.995551" lon="-3.602555"><name>via178</name><type>via</type></wpt>
+ <wpt lat="39.999903" lon="-3.603499"><name>via179</name><type>via</type></wpt>
+ <wpt lat="40.009002" lon="-3.599291"><name>via180</name><type>via</type></wpt>
+ <wpt lat="40.025825" lon="-3.605621"><name>via181</name><type>via</type></wpt>
+ <wpt lat="40.027496" lon="-3.602632"><name>via182</name><type>via</type></wpt>
+ <wpt lat="40.035877" lon="-3.601454"><name>via183</name><type>via</type></wpt>
+ <wpt lat="40.036242" lon="-3.604884"><name>via184</name><type>via</type></wpt>
+ <wpt lat="40.041487" lon="-3.605191"><name>via185</name><type>via</type></wpt>
+ <wpt lat="40.053265" lon="-3.61408"><name>via186</name><type>via</type></wpt>
+ <wpt lat="40.085381" lon="-3.604957"><name>via187</name><type>via</type></wpt>
+ <wpt lat="40.096187" lon="-3.630657"><name>via188</name><type>via</type></wpt>
+ <wpt lat="40.115286" lon="-3.621598"><name>via189</name><type>via</type></wpt>
+ <wpt lat="40.121945" lon="-3.614313"><name>via190</name><type>via</type></wpt>
+ <wpt lat="40.136953" lon="-3.606102"><name>via191</name><type>via</type></wpt>
+ <wpt lat="40.158966" lon="-3.60658"><name>via192</name><type>via</type></wpt>
+ <wpt lat="40.172213" lon="-3.588525"><name>via193</name><type>via</type></wpt>
+ <wpt lat="40.193732" lon="-3.586188"><name>via194</name><type>via</type></wpt>
+ <wpt lat="40.205939" lon="-3.580163"><name>via195</name><type>via</type></wpt>
+ <wpt lat="40.207519" lon="-3.573375"><name>via196</name><type>via</type></wpt>
  <wpt lat="40.219321" lon="-3.570345"><name>to</name><type>to</type></wpt>
  <trk>
   <name>cartagena-san-martin</name>
   <trkseg>
-   <trkpt lat="37.597939" lon="-0.982117"><ele>7.5</ele></trkpt>
+   <trkpt lat="37.597938" lon="-0.982118"><ele>7.5</ele></trkpt>
    <trkpt lat="37.597955" lon="-0.982104"><ele>7.75</ele></trkpt>
    <trkpt lat="37.597977" lon="-0.982102"><ele>8</ele></trkpt>
    <trkpt lat="37.597999" lon="-0.982108"><ele>8.25</ele></trkpt>
@@ -1155,10 +1290,10 @@
    <trkpt lat="37.944327" lon="-1.055908"><ele>135.5</ele></trkpt>
    <trkpt lat="37.944411" lon="-1.05598"><ele>136</ele></trkpt>
    <trkpt lat="37.944518" lon="-1.056101"><ele>136</ele></trkpt>
-   <trkpt lat="37.944612" lon="-1.056236"><ele>134.25</ele></trkpt>
-   <trkpt lat="37.944667" lon="-1.056329"><ele>133</ele></trkpt>
-   <trkpt lat="37.944711" lon="-1.056432"><ele>132</ele></trkpt>
-   <trkpt lat="37.944749" lon="-1.056546"><ele>130.75</ele></trkpt>
+   <trkpt lat="37.944612" lon="-1.056236"><ele>134.5</ele></trkpt>
+   <trkpt lat="37.944667" lon="-1.056329"><ele>133.75</ele></trkpt>
+   <trkpt lat="37.944711" lon="-1.056432"><ele>132.75</ele></trkpt>
+   <trkpt lat="37.944749" lon="-1.056546"><ele>132</ele></trkpt>
    <trkpt lat="37.944763" lon="-1.056627"><ele>131</ele></trkpt>
    <trkpt lat="37.94477" lon="-1.056719"><ele>129.75</ele></trkpt>
    <trkpt lat="37.944762" lon="-1.056836"><ele>128.25</ele></trkpt>
@@ -3594,9 +3729,9 @@
    <trkpt lat="38.430261" lon="-1.575983"><ele>481.5</ele></trkpt>
    <trkpt lat="38.431479" lon="-1.576707"><ele>488.5</ele></trkpt>
    <trkpt lat="38.432482" lon="-1.57732"><ele>494</ele></trkpt>
-   <trkpt lat="38.432736" lon="-1.577448"><ele>498</ele></trkpt>
-   <trkpt lat="38.432985" lon="-1.57755"><ele>502</ele></trkpt>
-   <trkpt lat="38.433263" lon="-1.577609"><ele>506.5</ele></trkpt>
+   <trkpt lat="38.432736" lon="-1.577448"><ele>495.25</ele></trkpt>
+   <trkpt lat="38.432985" lon="-1.57755"><ele>495.25</ele></trkpt>
+   <trkpt lat="38.433263" lon="-1.577609"><ele>498</ele></trkpt>
    <trkpt lat="38.435723" lon="-1.578054"><ele>506.5</ele></trkpt>
    <trkpt lat="38.43597" lon="-1.578067"><ele>508</ele></trkpt>
    <trkpt lat="38.436233" lon="-1.578028"><ele>510.25</ele></trkpt>
@@ -6069,11 +6204,8 @@
    <trkpt lat="39.7236" lon="-3.307626"><ele>687</ele></trkpt>
    <trkpt lat="39.724629" lon="-3.3076"><ele>687</ele></trkpt>
    <trkpt lat="39.724753" lon="-3.307586"><ele>687</ele></trkpt>
-   <trkpt lat="39.724823" lon="-3.307566"><ele>687</ele></trkpt>
-   <trkpt lat="39.724995" lon="-3.307473"><ele>686.75</ele></trkpt>
-   <trkpt lat="39.725088" lon="-3.307406"><ele>686.75</ele></trkpt>
-   <trkpt lat="39.725115" lon="-3.307444"><ele>686.75</ele></trkpt>
-   <trkpt lat="39.725159" lon="-3.307508"><ele>686.75</ele></trkpt>
+   <trkpt lat="39.724782" lon="-3.307639"><ele>687</ele></trkpt>
+   <trkpt lat="39.724862" lon="-3.307782"><ele>687</ele></trkpt>
    <trkpt lat="39.725182" lon="-3.307542"><ele>686.75</ele></trkpt>
    <trkpt lat="39.725347" lon="-3.30784"><ele>686.5</ele></trkpt>
    <trkpt lat="39.725505" lon="-3.308156"><ele>686.25</ele></trkpt>
